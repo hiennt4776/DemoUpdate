@@ -27,6 +27,9 @@ namespace DemoUpdate
             MessageBox.Show("Button was clicked version 1");
         }
 
-  
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Button was clicked version 2");
+        }
     }
 }
